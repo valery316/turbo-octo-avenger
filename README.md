@@ -1,4 +1,4 @@
 turbo-octo-avenger
 ==================
 
-It is just flu a test.
+It is just for a test.
